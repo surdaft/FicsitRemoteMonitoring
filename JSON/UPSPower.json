@@ -4,8 +4,7 @@
 	"embeds": [{
 		"title": "Alarm: Circuit #{CircuitID} on Backup",
 		"fields": [
-			{"name": "Circuit Info:", "value": "Battery Remaining: {BattPercent}
-			Time Remaining: {TimeEmpty}", "inline": true}
+			{"name": "Circuit Info:", "value": "Battery Remaining: {BattPercent}\nTime Remaining: {TimeEmpty}", "inline": true}
 		],
 		"footer": {"text": "{Flavor}"}
 	}]
